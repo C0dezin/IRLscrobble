@@ -15,7 +15,9 @@ Example:
 
 Adding this to your csv file and running the code, your scrobble would be counted on the exact day and time written
 
-So, it would show like this ![image](https://github.com/C0dezin/IRLscrobble/assets/73194980/a26bfed2-6177-4ab9-a98e-4bbae7f235b1)
+So, it would show like this 
+
+![image](https://github.com/C0dezin/IRLscrobble/assets/73194980/a26bfed2-6177-4ab9-a98e-4bbae7f235b1)
 
 You can write .csv files on your cellphone or even a piece of paper!
 
