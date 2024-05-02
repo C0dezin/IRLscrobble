@@ -22,7 +22,8 @@
 2. Find username and password variables
    ![image](https://github.com/C0dezin/IRLscrobble/assets/73194980/f2b87968-3122-4cd5-a01e-592aef753e55)
 
-3. Fill with your username and password **Your login information is used to make the request directly to the lastfm server, I do not have access to any of your information.**
+3. Fill with your username and password
+**Your login information is used to make the request directly to the lastfm server, I do not have access to any of your information.**
 
 Your done
 
