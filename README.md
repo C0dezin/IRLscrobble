@@ -15,4 +15,4 @@ So, it would show like this ![image](https://github.com/C0dezin/IRLscrobble/asse
 
 You can write .csv files on your cellphone or even a piece of paper!
 
-Wanna test it?
+Wanna test it? [How-to](https://github.com/C0dezin/IRLscrobble/blob/main/How-to.md)
