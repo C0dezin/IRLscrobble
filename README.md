@@ -23,6 +23,4 @@ You can write .csv files on your cellphone or even a piece of paper(you will nee
 
 Wanna test it? [How-to](https://github.com/C0dezin/IRLscrobble/blob/main/How-to.md)
 
-Showcase:
-https://youtu.be/jxNlSzAaFow
-
+[Showcase](https://youtu.be/jxNlSzAaFow)
