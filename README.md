@@ -10,6 +10,7 @@ This small script can import .csv files into your last.fm.
 CSV files are comma separated value files(think of excel for example)
 
 Example:
+
 `alex g,Track7,c-sides,2024-5-2,12:29:23`
 
 Adding this to your csv file and running the code, your scrobble would be counted on the exact day and time written
