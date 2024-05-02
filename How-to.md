@@ -3,7 +3,7 @@
 
 ## File Setup
 
-1. Download the file named import.py on releases here
+1. Download the file named import.py on [releases](https://github.com/C0dezin/IRLscrobble/releases/latest)
 2. Create a file named list.csv on the same directory of the python file
 3. Write all music that you want to import into the file
 
