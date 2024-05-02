@@ -1,7 +1,7 @@
 # IRLscrobble
 _Inspired by [LastFm Unplugged](https://blog.last.fm/2013/04/01/announcing-lastfm-unplugged)_
 
-Imagine that you go to a concert, or listen to music somewhere where you don't have direct access to the internet and you want to save everything you heard at the right time.
+Imagine that you go to a concert, or listen to music somewhere where you don't have direct access to the internet(touching grass moment) and you want to save everything you heard at the right time.
 
 If you have already experienced or thought about this, this program is your possible solution!
 
