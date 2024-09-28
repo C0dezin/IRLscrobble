@@ -5,7 +5,7 @@ Imagine that you go to a concert, or listen to music somewhere where you don't h
 
 If you have already experienced or thought about this, this program is your possible solution!
 
-This small script can import .csv files into your last.fm.
+This small script can import .csv files into your last.fm profile.
 
 CSV files are comma separated value files(think of excel for example)
 
@@ -19,7 +19,7 @@ So, it would show like this
 
 ![image](https://github.com/C0dezin/IRLscrobble/assets/73194980/a26bfed2-6177-4ab9-a98e-4bbae7f235b1)
 
-You can write .csv files on your cellphone or even a piece of paper(you will need to rewrite digitally)!
+You can write .csv files on your cellphone or even a piece of paper!(you will need to rewrite digitally)
 
 Wanna test it? [How-to](https://github.com/C0dezin/IRLscrobble/blob/main/How-to.md)
 
